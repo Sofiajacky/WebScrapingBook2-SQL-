@@ -1,6 +1,6 @@
 # Web Scraping Project: Cúspide Top 100 Best-Selling Books
 
-This project is a web scraping script written in Python to extract data from the top 100 best-selling books on Cúspide's website. The script collects information such as the book title, URL, price in pesos, price in USD, and price converted to the blue dollar rate.
+This project involves developing a Python web scraping script to extract and analyze data from the top 100 best-selling books on the Cúspide website, including book title, URL, price in pesos, USD, and the blue dollar conversion rate. Additionally, it will establish a MySQL database that will be updated with the data obtained through Python scraping.
 
 ## Overview
 
